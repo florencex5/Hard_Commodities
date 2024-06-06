@@ -1,4 +1,4 @@
-# Hard_Commodities
+# Cracking the Climate-Conscious Hard Commodities Code: Discovering Their True Value
 ---
 ### Chapter One: When Traditional Key Inputs Meets Climate Transition (Future Expansion🤫)
 **1.1**  The Sustainable Growth Rate Speaks Up!
