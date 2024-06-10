@@ -1,6 +1,20 @@
 # The Sustainable Growth Rate -- Analysis Report & Methodology
 
 
+## METHODOLOGY
+* **Data Selection**
+    1. Country: Chile
+        * Chile holds a leading position in global mining production, contributing approximately 23% of the world's copper (1st place) and 25% of its lithium (2nd place) as of 2023.
+    2. Critical Minerals: Lithium & Copper
+        * Chile, the world's top copper producer and home to the "lithium triangle," is prominent in both copper and lithium mining. This geographical concentration justifies focusing on these minerals. Analyzing lithium and copper in Chile, with an emphasis on sustainable growth rates, highlights the significance of various influencing factors.
+    3. Demand v.s. The sustainable growth rate
+        * The years 2030 and 2035 were selected to assess the impact of different starting years on sustainable growth rates, with the anticipation that future technological advancements will significantly influence demand.
+* **Limitation**
+    * The original IEA database provides predictions from 2030 to 2050, with an average interval of 5 years. The 7-year gap between the base year of 2023 and the first prediction year of 2030 may impact the accuracy and reliability of subsequent analyses of demand changes.
+
+
+
+
 ## KEY FINDINGS
 * The pronounced demand surge, followed by a hard commodity cooldown during the climate transition, emphasizes the necessity of excluding such spikes in forecasting long-term growth rates, often influenced by infrequent factors like policy shifts. Accounting for potential future technological advancements is crucial when compounding growth rates from the subsequent period.
 
@@ -42,13 +56,9 @@
     * The significant demand surge followed by a cooling trend in a hard commodity, particularly during the climate transition period, underscores the need to exclude such surges when predicting long-term growth rates, often influenced by infrequent factors like policy changes. Adjusting for potential future technological advancements remains essential when compounding growth rates from the subsequent period.
     * Distinguishing between cyclical and defensive demand in hard commdodity is essential for accurately assessing growth projections, with cyclical demand linked to economic cycles and defensive demand, driven by essential infrastructure and renewable energy, potentially facing slower growth post-project completion.
 
-## METHODOLOGY
-1. **Data Selection**
-   * *...*
-      * ...
-      * ...
-    
-2. **Limitation**
-   * *...*
-      * ...
-      * ...
+
+
+
+
+
+
