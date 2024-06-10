@@ -20,15 +20,11 @@
 
 
 ## ANALYSIS
-* **...**
-   * *...*
-      * ...
-      * ...
+1. **Workforce Dynamics: A Threat to Future Supply Stability**
+    * A stable and robust workforce is essential for the mining sector, which forms the foundation of the entire supply chain. However, according to PwC's 2023 Mining Report, mining ranks high on the list of jobs young workers are least interested in. Additionally, the ILO's 2024 World Employment and Social Outlook indicates stagnating labor productivity growth in Latin America and the Caribbean. This poses a significant future risk for Chile, a global leader in lithium and copper production. The uncertain workforce availability threatens future supply and adds more uncertainties to the sustainable growth rate of these critical minerals.
     
-* **...**
-   * *...*
-      * ...
-      * ...
+2. **Geographic Concentration: The Hidden Cost of Scope 3 Emissions**
+   * Geographic concentration could indeed impact sustainable growth rates through potential Scope 3 emissions arising from both upstream and downstream activities. The GHG Scope 3 calculation method for sea transport (distance-based) reveals that a greater weight of raw materials compared to refined materials, coupled with longer delivery distances, correlates with increased emissions. As a major mining player but not a refining hub, Chile's raw materials significantly contribute to Scope 3 emissions. For instance, Antofagasta PLC, a prominent Chilean copper mining firm headquartered in London, serves significant consumer markets in Asia, particularly Japan. The extensive distance between Chile and Japan considerably heightens downstream Scope 3 emissions. This factor can adversely impact company valuations in the future, underscoring the importance of considering geographic concentration when assessing sustainable growth rates for hard commodities.
 
 3. **Demand v.s. The Sustainable Growth Rate**
   * **COPPER**
