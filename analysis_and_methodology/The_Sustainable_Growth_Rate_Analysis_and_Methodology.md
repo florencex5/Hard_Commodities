@@ -1,13 +1,12 @@
 # The Sustainable Growth Rate -- Analysis Report & Methodology
 
-
 ## METHODOLOGY
 * **Data Selection**
-    1. Country: Chile
+    * Country: Chile
         * Chile holds a leading position in global mining production, contributing approximately 23% of the world's copper (1st place) and 25% of its lithium (2nd place) as of 2023.
-    2. Critical Minerals: Lithium & Copper
+    * Critical Minerals: Lithium & Copper
         * Chile, the world's top copper producer and home to the "lithium triangle," is prominent in both copper and lithium mining. This geographical concentration justifies focusing on these minerals. Analyzing lithium and copper in Chile, with an emphasis on sustainable growth rates, highlights the significance of various influencing factors.
-    3. Demand v.s. The sustainable growth rate
+    * Demand v.s. The sustainable growth rate
         * The years 2030 and 2035 were selected to assess the impact of different starting years on sustainable growth rates, with the anticipation that future technological advancements will significantly influence demand.
 * **Limitation**
     * The original IEA database provides predictions from 2030 to 2050, with an average interval of 5 years. The 7-year gap between the base year of 2023 and the first prediction year of 2030 may impact the accuracy and reliability of subsequent analyses of demand changes.
@@ -46,6 +45,7 @@
           * When analyzing growth rates for lithium, starting from different years but over the same time periods, a clear decreasing trend emerges, aligning with the continuous reduction in total demand change for each period. Specifically, growth rates calculated from 2035 are lower than those from 2030, reflecting the ongoing decline in demand.
     3. *Different Time Frame, All else equal -- **Excel [(2)]***
           * Under the NZE scenario highlighted by the IEA, lithium demand is projected to increase tenfold by 2050 compared to 2023. While this prediction is plausible based on current technology, it remains vulnerable to substitution risks from future hydrogen fuel cell vehicles. Diversifying investments into other renewable energy vehicle technologies is necessary for ensuring balanced preparation on both the supply and demand sides. Additionally, due to robust demand, the percentage change in growth rate from the longest (27 years) to the shortest (7 years) period is more evident for lithium than for copper, with the highest reduction reaching 60.57% for lithium and 54.45% for copper under the NZE scenario.
+---
   * **QUICK RECAP**
     * Strong demand doesn't ensure sustainable growth rates, especially in climate-exposed industries like energy companies trading hard commodities. While demand trends offer insights, determining compounded growth rates requires careful consideration of the time frame, particularly amid climate change, regulatory shifts, and technological advancements. Traditional metrics used to determine sustainable growth rates, such as return on capital and reinvestment rate, return on equity and earnings retention rate may not fully capture climate-related risks. They're limited by their reliance on specific fiscal years and lack forward-looking assessments.
     * The sustainable growth rate is a essential component of equity valuation. Using If only considered at the denominator level, changes in magnitude may appear small, but when combined with the numerator (e.g., FCFF, dividends), the impact on the valuation can be substantial.
