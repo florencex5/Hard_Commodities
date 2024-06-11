@@ -1,7 +1,7 @@
 # The Sustainable Growth Rate -- Analysis Report & Methodology
 
 ## THE PROBLEM
-* When the traditional growth paths collide with climate change, how could we realign with sustainable growth dynamics?
+* When the traditional valuation of hard commodities collides with climate change, how could we realign with sustainable growth dynamics?
 
 
 ## METHODOLOGY
@@ -10,11 +10,10 @@
         * Chile holds a leading position in global mining production, contributing approximately 23% of the world's copper (1st place) and 25% of its lithium (2nd place) as of 2023.
     * Critical Minerals: Lithium & Copper
         * Chile, the world's top copper producer and home to the "lithium triangle," is prominent in both copper and lithium mining. This geographical concentration justifies focusing on these minerals. Analyzing lithium and copper in Chile, with an emphasis on sustainable growth rates, highlights the significance of various influencing factors.
-    * Demand v.s. The sustainable growth rate
+    * Beginning Year (Demand v.s. The sustainable growth rate): 2030 & 2035
         * The years 2030 and 2035 were selected to assess the impact of different starting years on sustainable growth rates, with the anticipation that future technological advancements will potentially influence demand.
 * **Limitation**
     * The original IEA database provides predictions from 2030 to 2050, with an average interval of 5 years. The 7-year gap between the base year of 2023 and the first prediction year of 2030 may impact the accuracy and reliability of subsequent analyses of demand changes.
-
 
 
 ## KEY FINDINGS
