@@ -1,5 +1,8 @@
 # The Sustainable Growth Rate -- Analysis Report & Methodology
 
+## THE PROBLEM
+* When the traditional growth paths collide with climate change, how could we realign with sustainable growth dynamics?
+
 
 ## METHODOLOGY
 * **Data Selection**
