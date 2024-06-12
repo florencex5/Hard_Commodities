@@ -9,7 +9,7 @@
     * Country: Chile
         * Chile holds a leading position in global mining production, contributing approximately 23% of the world's copper (1st place) and 25% of its lithium (2nd place) as of 2023.
     * Critical Minerals: Lithium & Copper
-        * Chile, the world's top copper producer and home to the "lithium triangle," is prominent in both copper and lithium mining. This geographical concentration justifies focusing on these minerals. Analyzing lithium and copper in Chile, with an emphasis on sustainable growth rates, highlights the significance of various influencing factors.
+        * Chile, renowned as the world's top copper producer and a influential part of the "lithium triangle".This geographical concentration justifies focusing on these minerals. Analyzing lithium and copper in Chile, with an emphasis on sustainable growth rates, highlights the significance of various influencing factors.
     * Beginning Year (Demand v.s. The sustainable growth rate): 2030 & 2035
         * The years 2030 and 2035 were selected to assess the impact of different starting years on sustainable growth rates, with the anticipation that future technological advancements will potentially influence demand.
 * **Limitation**
@@ -17,7 +17,7 @@
 
 
 ## KEY FINDINGS
-* The mining sector's stability is threatened by young workers' disinterest and stagnating labor productivity, posing risks for Chile's future lithium and copper supply chains, emphasizing the considerable role of a stable workforce in maintaining sustainable growth rate projections.
+* The mining sector's stability could be undermined by young workers' disinterest and stagnating labor productivity, posing risks for Chile's future lithium and copper supply chains, emphasizing the considerable role of a stable workforce in maintaining sustainable growth rate projections.
 * The geographic concentration of raw material exports, such as those from Chile, raises Scope 3 emissions from maritime transport, underscoring the necessity of accounting for these concealed costs in sustainable growth rate calculations
 * Strong demand does not ensure sustainable growth rates, as determining compounded growth requires careful consideration of time frame and beginning year, especially in climate-sensitive sectors (E.g. hard commodities), with noteworthy implications for equity valuation when combined with metrics like FCFF and dividends.
 * The pronounced demand surge, followed by a hard commodity cooldown during the climate transition, emphasizes the necessity of excluding such spikes in forecasting long-term growth rates, often influenced by infrequent factors like policy shifts. Accounting for potential future technological advancements is crucial when compounding growth rates from the subsequent period.
@@ -25,7 +25,7 @@
 
 
 ## OPERATIONAL AND SYSTEMIC FACTORS SHAPING SUSTAINABLE GROWTH DYNAMICS
-1. **Workforce Dynamics: A Threat to Future Supply Stability**
+1. **Workforce Dynamics: A Challenge to Future Supply Stability**
     * A stable and robust workforce is essential for the mining sector, which forms the foundation of the entire supply chain. However, according to PwC's 2023 Mining Report, mining ranks high on the list of jobs young workers are least interested in. Additionally, the ILO's 2024 World Employment and Social Outlook indicates stagnating labor productivity growth in Latin America and the Caribbean. This poses a significant future risk for Chile, a global leader in lithium and copper production. The uncertain workforce availability threatens future supply and adds more uncertainties to the sustainable growth rate of these critical minerals.
     
 2. **Geographic Concentration: The Hidden Cost of Scope 3 Emissions**
@@ -56,7 +56,7 @@
     * Strong demand doesn't ensure sustainable growth rates, especially in climate-exposed industries like energy companies trading hard commodities. While demand trends offer insights, determining compounded growth rates requires careful consideration of the time frame, particularly amid climate change, regulatory shifts, and technological advancements. Traditional metrics used to determine sustainable growth rates, such as return on capital and reinvestment rate, return on equity and earnings retention rate may not fully capture climate-related risks. They're limited by their reliance on specific fiscal years and lack forward-looking assessments.
     * The sustainable growth rate is a essential component of equity valuation. Using If only considered at the denominator level, changes in magnitude may appear small, but when combined with the numerator (e.g., FCFF, dividends), the impact on the valuation can be substantial.
     * The significant demand surge followed by a cooling trend in a hard commodity, particularly during the climate transition period, underscores the need to exclude such surges when predicting long-term growth rates, often influenced by infrequent factors like policy changes. Adjusting for potential future technological advancements remains essential when compounding growth rates from the subsequent period.
-    * Distinguishing between cyclical and defensive demand in hard commdodity is essential for accurately assessing growth projections, with cyclical demand linked to economic cycles and defensive demand, driven by essential infrastructure and renewable energy, potentially facing slower growth post-project completion.
+    * Distinguishing between cyclical and defensive demand in hard commodity is essential for accurately assessing growth projections, with cyclical demand linked to economic cycles and defensive demand, driven by essential infrastructure and renewable energy, potentially facing slower growth post-project completion.
 
 
 
