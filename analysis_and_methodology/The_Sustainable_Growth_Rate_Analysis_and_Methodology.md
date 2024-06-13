@@ -12,6 +12,9 @@
         * Chile, renowned as the world's top copper producer and a influential part of the "lithium triangle".This geographical concentration justifies focusing on these minerals. Analyzing lithium and copper in Chile, with an emphasis on sustainable growth rates, highlights the significance of various influencing factors.
     * Beginning Year (Demand v.s. The sustainable growth rate): 2030 & 2035
         * The years 2030 and 2035 were selected to assess the impact of different starting years on sustainable growth rates, with the anticipation that future technological advancements will potentially influence demand.
+* **Analysis Methods**
+   * Mathematical Analysis
+   * Time Series Analysis  
 * **Limitation**
     * The original IEA database provides predictions from 2030 to 2050, with an average interval of 5 years. The 7-year gap between the base year of 2023 and the first prediction year of 2030 may impact the accuracy and reliability of subsequent analyses of demand changes.
 
