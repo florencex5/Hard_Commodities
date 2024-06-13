@@ -9,7 +9,7 @@
 ### Chapter One: When Traditional Key Inputs Meets Climate Transition (Future Expansion🤫)
 * **1.1 The Sustainable Growth Rate Speaks Up!**
     * [Full Analysis Report & Methodology 🗒️](https://github.com/florencex5/Hard_Commodities/blob/main/analysis_and_methodology/The_Sustainable_Growth_Rate_Analysis_and_Methodology.md)
-    * [Full Analysis Slides 🖥️](https://github.com/florencex5/Hard_Commodities/blob/main/analysis_slides/The%20Sustainable%20Growth_Slides.pdf)
+    * [Full Analysis Slides 🖥️](https://github.com/florencex5/Hard_Commodities/blob/main/analysis_slides/The%20Sustainable%20Growth_finalVersion.pdf)
     * **Concept Diagram 😬**
     <img width="1286" alt="concept_diagram" src="https://github.com/florencex5/Hard_Commodities/assets/129706051/af30f7e5-ed59-490e-a1f5-418cfd0dad4c">
 
