@@ -1,7 +1,7 @@
 # The Interconnectedness -- Analysis Report & Methodology
 
 ## THE PROBLEM
-* ...
+* How does climate change shape the interconnected roles of copper and aluminium?
 
 
 ## METHODOLOGY
@@ -10,7 +10,9 @@
         * ...
 
 * **Analysis Methods**
-   * ..
+   * Time Series Analysis
+        * Seasonal Comparison
+        * Integration of Third-Party Variables:
     
 * **Limitation**
     * ..
