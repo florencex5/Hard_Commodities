@@ -30,25 +30,25 @@
 2. **...**
    * ...
 
-3. **...**
-  * **COPPER**
-    1. *...*
+3. **Intergration of Third-Party Variables**
+  * **Global Copper Price & Headline CPI**
+    1. *Graphical Analysis*
          * ..
            * ...
            
-    2. *...*
+    2. *Quantitative Analysis*
         * ..
-    3. *...*
+    3. *Overview*
         * ...
 
-  * **ALUMINIUM**
-    1. *...*
+  * **Global Aluminium Price & Headline CPI**
+    1. *Graphical Analysis*
          * ..
            * ...
            
-    2. *...*
+    2. *Quantitative Analysis*
         * ..
-    3. *...*
+    3. *Overview*
         * ...
 ---
   * **...**
