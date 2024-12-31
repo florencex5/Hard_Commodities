@@ -14,7 +14,7 @@
     <img width="1286" alt="concept_diagram" src="https://github.com/florencex5/Hard_Commodities/assets/129706051/af30f7e5-ed59-490e-a1f5-418cfd0dad4c">
 
     
-### Chapter Two: Climate-Driven Earnings Forecasts (Future Expansion🤫)
-* **2.1 The Interconnectedness**
+### Chapter Two: Climate-Driven Earnings Forecasts - Interconnectedness
+* **Pair 1: Copper v.s. Aluminum**
   
 ### Chapter Three: Adapting Equity Valuation to a Dynamic Climate" (Under Construction🏗️)
