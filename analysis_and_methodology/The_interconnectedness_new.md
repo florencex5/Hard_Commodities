@@ -55,26 +55,41 @@
             * When headline CPI is integrated with copper and aluminum prices, strong positive correlations emerge: 0.735 for copper and 0.828 for aluminum. These values suggest that as commodity prices increase, headline CPI tends to rise correspondingly. However, this relationship presents contradictions. While rising CPI typically reduces purchasing power and curtails demand, simultaneous increases in commodity prices often signal heightened demand—implying the influence of additional factors.These inconsistencies underline the complexity of CPI and commodity price dynamics in a climate-driven world. Variables such as stock market performance, influenced by advancements like AI, may also play a critical role in shaping these interconnections.
 
 
-* **...**
-    * **Type**
+* **Fluctuations: Analyzing Shifts in Market Dynamics**
+    1. **CPI Categories in Focus: Headline, Core, and Energy**
         * **Headline and Core CPI**
             * The correlation between headline CPI and hard commodity prices has shifted over time. In both the past decade and the COVID-19 period, positive correlations were observed. However, in the post-COVID period, the relationship reversed, with rising commodity prices coinciding with falling CPI. Due to the limited post-COVID sample size (fewer than 30 data points), statistical significance may be impacted. Spearman’s rank correlation analysis reveals the following:
                 * **Copper**: Significant correlation only with core CPI (r = -0.709).
-                * **Aluminum**: Significant correlations with both headline and core CPI, with the strongest correlation with core CPI (r = -0.7626).
+                * **Aluminum**: Significant correlations with both headline and core CPI, with the strongest correlation with core CPI (r = -0.763).
             * During the past decade and the COVID-19 period, headline CPI demonstrated stronger correlations with commodity prices. However, in the post-COVID period, core CPI exhibited a stronger negative correlation:
                 * **Copper**: headline CPI (r=-0.391) v.s. core CPI (r= -0.709)
                 * **Aluminum**: headline CPI (r=-0.562) v.s. core CPI (r= -0.763)
-            * These reversals underscore the increasing influence of factors beyond inflationary trends, indicating that additional variables now play a more significant role in shaping the relationship between CPI and commodity prices.
+
         * **Energy CPI and Its Components: Energy Commodities and Energy Services**
             * Energy-related CPI components consistently exhibit positive correlations with hard commodity prices across all analyzed periods: the past decade, the COVID-19 period, and the post-COVID period. Notably, during the post-COVID period, Energy Services CPI—encompassing utility services like piped gas and electricity—showed significant shifts:
                 1. Increased Correlations (compared to the COVID-19 period):
-                    * **Copper**: Correlation rose to 0.8824, a 64% increase.
-                    * **Aluminum**: Correlation increased to 0.8019, an 18% rise.
-                2. Sustained Significant Correlations:
+                    * **Copper**: Correlation rose to 0.882, a 64% increase.
+                    * **Aluminum**: Correlation increased to 0.802, an 18% rise.
+                2. Energy Services CPI - Sustained Significant Correlations:
                     * Unlike Energy Commodities CPI, which showed no significant correlation, Energy Services CPI maintained its strong linkage with both metals.
-            * These shifts highlight copper’s pivotal role in electricity infrastructure, such as power grids essential for EV production. The post-COVID surge aligns with the global green energy transition, reinforced by COP28 and its emphasis on phasing out fossil fuels.
-    * **Time period**
-        * ..
+                    
+            * **Section Summary**
+                * These reversals highlight the increasing influence of factors beyond inflationary trends in shaping the relationship between CPI and commodity prices. They also underscore copper’s critical role in electricity infrastructure, including power grids essential for EV production. The post-COVID surge in demand aligns with global green energy transitions, reinforced by COP28’s focus on phasing out fossil fuels.
+                
+    2. **Multiple Timeframe Analysis**
+        * Over the 34-year period from January 1990 to November 2024, the correlation between copper and aluminum prices was 0.846. Narrowing the analysis to the past decade (10 years), the correlation increased to 0.910, aligning with the theory that shorter timeframes reduce noise and improve correlation (all else equal). However, during the COVID-19 period (2 years), the correlation dropped slightly to 0.89, suggesting that the relationship remained strong but did not improve further. In the post-COVID period (1.5 years), the correlation decreased to 0.777, reflecting heightened sensitivity to external factors and economic shifts during this time.
+        * For Energy CPI and its components, the trends diverged from general expectations. Comparing the COVID-19 period to the preceding decade:
+            * **Energy CPI**: Correlation with copper rose by 34%, and with aluminum by 12%.
+            * **Energy Commodities CPI**: Copper’s correlation surged by 46%, and aluminum’s by 15%.
+            * **Energy Services CPI**: Correlations decreased slightly, with copper falling by 13% and aluminum by 6%.
+        * Transitioning from the COVID-19 period to the post-COVID period, the dynamics shifted again:
+            * **Energy Services CPI**: Correlations showed marked increases with both metals.
+            * **Energy CPI and Energy**: Commodities CPI: Correlations declined sharply. Notably, Energy Commodities CPI correlations dropped significantly—by 78% for copper and 86% for aluminum.
+        * **Section summary**
+            * These results underscore the rapidly evolving interconnections between hard commodities and market factors. While hard commodity trading might seem distant from everyday consumer concerns, changes in these interconnections—shaped by global energy transitions and post-pandemic economic factors—are reflected in consumer-focused metrics like CPI. This emphasizesthe importance of analyzing such shifts to understand broader economic impacts, including consumer sentiment and market confidence.
+
+
+
     * *...*
         * ...
 
