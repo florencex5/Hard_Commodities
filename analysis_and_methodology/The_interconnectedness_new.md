@@ -6,10 +6,10 @@
 
 ## METHODOLOGY
 * **Data Selection**
-    *Major commodities*
+    * *Major commodities*
         * Pair 1: Copper v.s. Aluminum
         * Pair 2: Crude Oil v.s. Natural Gas
-    *Market Relevant Factors*
+    * *Market Relevant Factors*
         * Economic Indicators (Monthly Data)
             * Headline Consumer Price Index(CPI),Core CPI,Energy CPI,Energy Service CPI, Energy Commodities CPI,
             * Personal Consumption Expenditure (PCE)
@@ -17,7 +17,7 @@
         * Digital Assets - Cryptocurrency (Daily Data)
             * Bitcoin
             * Ether
-    *Defined Timeframes*
+    * *Defined Timeframes*
         * Past Decade: November 2014 – November 2024
         * Five year: November 2019 – November 2024
         * COVID-19 Period: March 2020 – May 2023
