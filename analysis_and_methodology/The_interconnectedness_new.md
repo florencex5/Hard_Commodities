@@ -8,16 +8,25 @@
 * **Data Selection**
     *Major commodities*
         * Pair 1: Copper v.s. Aluminum
-        * Pair 2: 
-    *Market Relevant Indicators*
-        * Headline Consumer Price Index(CPI),Core CPI,Energy CPI,Energy Service CPI, Energy Commodities CPI,
-        * Personal Consumption Expenditure (PCE)
-        * Consumer Sentiment Index (Univerisity of Michigan)
+        * Pair 2: Crude Oil v.s. Natural Gas
+    *Market Relevant Factors*
+        * Economic Indicators (Monthly Data)
+            * Headline Consumer Price Index(CPI),Core CPI,Energy CPI,Energy Service CPI, Energy Commodities CPI,
+            * Personal Consumption Expenditure (PCE)
+            * Consumer Sentiment Index (Univerisity of Michigan)
+        * Digital Assets - Cryptocurrency (Daily Data)
+            * Bitcoin
+            * Ether
     *Defined Timeframes*
         * Past Decade: November 2014 – November 2024
+        * Five year: November 2019 – November 2024
         * COVID-19 Period: March 2020 – May 2023
         * Post-COVID Period: June 2023 – November 2024
-         
+        
+* **Data Frequency Considerations**
+    * Economic indicators (CPI, CSI, etc.) are reported on a *monthly* basis.
+    * Cryptocurrency data for Bitcoin and Ether is available on a *daily* basis.
+    * The difference in data frequency will be accounted for in the analysis methodology.
 
 * **Analysis Methods**
    * Time Series Analysis
@@ -26,7 +35,8 @@
     
 * **Limitation**
     * A key limitation arises from aligning monthly macroeconomic indicators with daily commodity trading prices. To ensure consistency and comparability, global copper and aluminum prices are used in place of daily futures trading prices for certain segments of the analysis.
-    * small sample size (post Covid period)
+    * The post-COVID period is limited to a smaller sample size (less than 30), which may affect the statistical significance of the findings.
+    * The differing operating hours between hard commodities and cryptocurrencies complicate data alignment, leading to exclusion of some cryptocurrency data. The merged data will primarily be aligned with the trading calendars of hard commodities.
 
 
 
@@ -53,7 +63,7 @@
         * **Headline CPI vs. Copper and Aluminum Prices** 
             * The comparison with headline CPI is initiated for two primary reasons. First, headline CPI captures a broad spectrum of price changes across the economy. Second, despite the increased fluctuation that comes from its inclusion of energy and food prices, the strong correlation between energy prices and hard commodity prices makes headline CPI an appropriate starting point for analyzing the broader economic implications.     
             * When headline CPI is integrated with copper and aluminum prices, strong positive correlations emerge: 0.735 for copper and 0.828 for aluminum. These values suggest that as commodity prices increase, headline CPI tends to rise correspondingly. However, this relationship presents contradictions. While rising CPI typically reduces purchasing power and curtails demand, simultaneous increases in commodity prices often signal heightened demand—implying the influence of additional factors.These inconsistencies underline the complexity of CPI and commodity price dynamics in a climate-driven world. Variables such as stock market performance, influenced by advancements like AI, may also play a critical role in shaping these interconnections.
-
+    * **_Factor 2: Cryptocurrency_**
 
 3. **Fluctuations: Analyzing Shifts in Market Dynamics**
     1. **_CPI Categories in Focus: Headline, Core, and Energy_**
