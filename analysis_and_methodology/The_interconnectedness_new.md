@@ -6,9 +6,13 @@
 
 ## METHODOLOGY
 * **Data Selection**
-    * *Major commodities*
-        * Pair 1: Copper v.s. Aluminum
-        * Pair 2: Crude Oil v.s. Natural Gas
+    * *Major Hard Commodities*
+        * Pair 1: Copper v.s. Aluminum (Covered in both written and quantitative analysis)
+        * Pair 2: Crude Oil v.s. Natural Gas (Quantitative analysis only)
+    * *Climate Change*
+        * Examined indirectly through two dimensions:
+            * **People:** Economic indicators like CPI reflect consumer behavior and sentiment shaped by climate policies, such as changes in energy costs.
+            * **Technology:** Innovations like cryptocurrency and renewable energy emerge from technological progress. While not directly tied to climate change, cryptocurrency parallels renewable energy in its origins, with Bitcoin serving as a digital counterpart to traditional gold for comparative analysis.
     * *Market Relevant Factors*
         * Economic Indicators (Monthly Data)
             * Headline Consumer Price Index(CPI),Core CPI,Energy CPI,Energy Service CPI, Energy Commodities CPI,
@@ -22,7 +26,7 @@
         * Five year: December 2019 – November 2024
         * COVID-19 Period: March 2020 – May 2023
         * Post-COVID Period: June 2023 – November 2024
-        
+    
 * **Data Frequency Considerations**
     * Economic indicators (CPI, CSI, etc.) are reported on a *monthly* basis.
     * Cryptocurrency data for Bitcoin and Ether is available on a *daily* basis.
@@ -91,11 +95,11 @@
                         * Unlike Energy Commodities CPI, which showed no significant correlation, Energy Services CPI maintained its strong linkage with both metals.
                         
         * **Digital Assets: Cryptocurrency**
-            * *Roles of Different Cryptoassets*
+            * *Roles of Different Cryptocurrencies*
                 * Cryptocurrencies, such as Bitcoin, Ether, and Ripple, each play distinct roles in the market, contributing uniquely to market dynamics. To set the stage for analyzing the relationship between cryptocurrencies and traditional hard commodities, this section begins with a comparison of traditional gold and its digital counterpart, Bitcoin.   
             * *Gold vs. Bitcoin*
                 * **Comparison During COVID and Post-COVID Periods:** Bitcoin’s correlation with traditional commodities like gold shifted significantly during the COVID-19 and post-COVID periods. Historically, gold had weak correlations with other commodities and cryptocurrencies. However, both gold and Bitcoin showed strong positive correlations with copper and aluminum in the post-COVID period, with a notable correlation of 0.8537 between gold and Bitcoin. This correlation does not indicate shared market drivers: gold’s recent rise is largely attributed to robust demand in the Chinese market, while Bitcoin’s growth was fueled by shifts in U.S. market sentiment following the presidential election.
-                * **Key Differences:** Despite Bitcoin being called “digital gold,” their fundamental differences remain. Gold is a physical commodity, whereas Bitcoin is a digital asset based on a decentralized blockchain. This contrast shapes investor behavior: gold attracts conservative investors seeking stability, often following seasonal patterns (E.g. MoM percentage change in volume), while Bitcoin appeals to investors willing to take on higher risks for higher returns, without a strong seasonal pattern.
+                * **Key Differences:** Despite Bitcoin being called “digital gold,” their fundamental differences remain. Gold is a physical commodity, whereas Bitcoin is a digital asset based on a decentralized blockchain. This contrast shapes investor behavior: gold attracts conservative investors seeking stability, often following patterns (E.g. MoM percentage change in volume/for more details please refer to "Part 3: Seasonality in Market Trends"), while Bitcoin appeals to investors willing to take on higher risks for higher returns, without a strong seasonal pattern.
                 
         * **Section Summary**
            * Different market indicators, such as CPI and cryptocurrencies, impact market fluctuations based on their categories and underlying drivers. For example, while Bitcoin and gold may show correlations during certain periods, their price movements are influenced by separate factors. Similarly, the relationship between CPI and commodity prices highlights the influence of non-inflationary elements in shaping market trends. The post-COVID surge in demand for copper aligns with the global shift toward green energy, emphasizing copper’s importance in electricity infrastructure, including power grids for electric vehicles, as reinforced by COP28’s focus on phasing out fossil fuels.
@@ -119,6 +123,8 @@
             * The evolving interconnections between hard commodities and market factors, driven by global energy transitions and post-pandemic shifts, have broad implications for economic indicators like CPI, reflecting their influence on consumer sentiment and market confidence. Additionally, correlation trends among gold, copper, aluminum, and cryptocurrencies vary across investment horizons, as demonstrated by differences between the COVID-19 and post-COVID periods. These findings underscore the importance of aligning investment strategies with dynamic market conditions.
 
     3. **_Seasonality in Market Trends_**
+        * Gold displays a distinct pattern in Month-over-Month (MoM) percentage changes in trading volume, closely tied to futures trading cycles. Trading volume typically increases during key rollover months (January, March, May, July, September, and November) as traders extend contracts rather than execute them.In contrast, Bitcoin demonstrates a relatively flat MoM volume trend, suggesting that investors may prioritize short-term gains through derivative instruments like Ether/Bitcoin Ratio Futures Contracts over seasonal trading strategies. As the cryptocurrency market continues to evolve, fiscal policies and regulatory developments—shaped in part by differing perspectives on climate change—could influence these patterns in the future.
+
         
 
   
