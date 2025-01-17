@@ -6,15 +6,18 @@
 * I’m unsure how far this project will go, but I see the potential and feel compelled to take a moment, reflect, and give it a try. Perhaps I’ll encounter a dead end, or maybe the project will be set aside. Nonetheless, I’m prepared to embrace this uncertainty. If you’re interested in my topic, come along for the ride! Let’s see where this journey takes us, and hopefully, you’ll enjoy it as much as I do🤗
 
 ## Catalogue
-### Chapter One: When Traditional Key Inputs Meets Climate Transition (Future Expansion🤫)
-* **1.1 The Sustainable Growth Rate Speaks Up!**
-    * [Full Analysis Report & Methodology 🗒️](https://github.com/florencex5/Hard_Commodities/blob/main/analysis_and_methodology/The_Sustainable_Growth_Rate_Analysis_and_Methodology.md)
-    * [Full Analysis Slides 🖥️](https://github.com/florencex5/Hard_Commodities/blob/main/analysis_slides/The%20Sustainable%20Growth_finalVersion.pdf)
-    * **Concept Diagram 😬**
+### Chapter One: When Traditional Key Inputs Meets Climate Transition - The Sustainable Growth Rate Speaks Up!
+   * [Full Analysis Report & Methodology 🗒️](https://github.com/florencex5/Hard_Commodities/blob/main/analysis_and_methodology/The_Sustainable_Growth_Rate_Analysis_and_Methodology.md)
+   * [Full Analysis Slides 🖥️](https://github.com/florencex5/Hard_Commodities/blob/main/analysis_slides/The%20Sustainable%20Growth_finalVersion.pdf)
+   * **Concept Diagram 😬**
     <img width="1286" alt="concept_diagram" src="https://github.com/florencex5/Hard_Commodities/assets/129706051/af30f7e5-ed59-490e-a1f5-418cfd0dad4c">
 
     
 ### Chapter Two: Climate-Driven Earnings Forecasts - Interconnectedness
 * **Pair 1: Copper v.s. Aluminum**
+* **Pair 2: Crude Oil v.s. Natural Gas**
   
-### Chapter Three: Adapting Equity Valuation to a Dynamic Climate" (Under Construction🏗️)
+### Chapter Three: Adapting Equity Valuation to a Dynamic Climate"
+
+
+### Epilogue
