@@ -35,7 +35,7 @@
 * **Analysis Methods**
    * Time Series Analysis
    * Hypothesis Testing: Correlation (Pearson & Spearman rank)
-   * 
+   * Correlation Analysis
     
 * **Limitation**
     * A key limitation arises from aligning monthly macroeconomic indicators with daily commodity trading prices. To ensure consistency and comparability, global copper and aluminum prices are used in place of daily futures trading prices for certain segments of the analysis.
@@ -43,13 +43,12 @@
     * The differing operating hours between hard commodities and cryptocurrencies complicate data alignment, leading to exclusion of some cryptocurrency data. The merged data will primarily be aligned with the trading calendars of hard commodities.
 
 
-
 ## KEY FINDINGS
 1. Climate change policies significantly reshape the demand for hard commodities like copper and aluminum, vital to renewable energy and EV infrastructure. Copper’s correlation with Energy Services CPI rose 64% post-COVID to 0.882, reflecting its growing role in power grids, while Energy Commodities CPI correlations weakened, highlighting sector-specific shifts.
 2. Rising commodity prices driven by climate-related demand show complex dynamics with CPI. While headline CPI correlated positively with copper (0.735) and aluminum (0.830) in the past decade, post-COVID shifts to weaker or negative correlations (copper: -0.3911; aluminum: -0.5624, significant) suggest inconsistencies influenced by factors like AI-driven stock performance.
 3. Historical correlations among hard commodities should be used cautiously in climate-driven forecasts. Recent policy shifts, such as major U.S. banks exiting climate finance groups, and evolving dynamics, where complementary relationships may shift to substitution trends (e.g., copper and aluminum), require careful consideration.
 4. Cryptocurrencies like Bitcoin and Ether, traditionally seen as alternative investments, offer portfolio diversification benefits. However, the pursuit of negative correlations should be evaluated critically to assess the robustness and true value of such correlations.
-5. Bitcoin, as “digital gold,” differs from traditional gold in investor preferences and its link to hard commodities. While it can diversify a portfolio, its performance depends on the portfolio’s composition, with stable and mature policy support essential for long-term growth.
+5. Bitcoin, unlike traditional gold, exhibits flat Month-over-Month trading volumes, highlighting a focus on short-term gains through derivatives, whereas gold experiences volume spikes during key rollover months due to futures trading cycles. Bitcoin’s role as “digital gold” depends on portfolio composition and stable policy support, with evolving fiscal and climate policies set to shape its future trends.
 6. Achieving climate objectives requires establishing short-, medium-, and long-term targets, as each timeframe presents unique correlations that can be leveraged to align with investors’ preferred horizons and enhance diversification.
 
 
