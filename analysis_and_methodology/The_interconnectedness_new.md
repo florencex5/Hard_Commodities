@@ -17,7 +17,7 @@
         * Economic Indicators (Monthly Data)
             * Headline Consumer Price Index(CPI),Core CPI,Energy CPI,Energy Service CPI, Energy Commodities CPI,
             * Personal Consumption Expenditure (PCE)
-            * Consumer Sentiment Index (Univerisity of Michigan)
+            * Consumer Sentiment Index (University of Michigan)
         * Digital Assets - Cryptocurrency (Daily Data)
             * Bitcoin
             * Ether
@@ -45,8 +45,12 @@
 
 
 ## KEY FINDINGS
-* ..
-* ..
+1. Climate change policies significantly reshape the demand for hard commodities like copper and aluminum, vital to renewable energy and EV infrastructure. Copper’s correlation with Energy Services CPI rose 64% post-COVID to 0.882, reflecting its growing role in power grids, while Energy Commodities CPI correlations weakened, highlighting sector-specific shifts.
+2. Rising commodity prices driven by climate-related demand show complex dynamics with CPI. While headline CPI correlated positively with copper (0.735) and aluminum (0.830) in the past decade, post-COVID shifts to weaker or negative correlations (copper: -0.3911; aluminum: -0.5624, significant) suggest inconsistencies influenced by factors like AI-driven stock performance.
+3. Historical correlations among hard commodities should be used cautiously in climate-driven forecasts. Recent policy shifts, such as major U.S. banks exiting climate finance groups, and evolving dynamics, where complementary relationships may shift to substitution trends (e.g., copper and aluminum), require careful consideration.
+4. Cryptocurrencies like Bitcoin and Ether, traditionally seen as alternative investments, offer portfolio diversification benefits. However, the pursuit of negative correlations should be evaluated critically to assess the robustness and true value of such correlations.
+5. Bitcoin, as “digital gold,” differs from traditional gold in investor preferences and its link to hard commodities. While it can diversify a portfolio, its performance depends on the portfolio’s composition, with stable and mature policy support essential for long-term growth.
+6. Achieving climate objectives requires establishing short-, medium-, and long-term targets, as each timeframe presents unique correlations that can be leveraged to align with investors’ preferred horizons and enhance diversification.
 
 
 ## ANALYSIS
@@ -64,7 +68,7 @@
         * **Variability in CPI and PCE**
             * Over the past decade, headline CPI, core CPI, and PCE have exhibited similar trends, particularly during the COVID-19 pandemic, when they displayed a distinct “bump” pattern. However, Energy CPI stands out due to its significantly higher volatility, with a variance of 198.655 compared to headline CPI’s 5.252.
             * Within the Energy CPI category, Energy CPI—which includes gasoline (all types) and fuel oil—is the most volatile component, accounting for approximately 268.13% of the total Energy CPI variance. Notably, Energy Commodities CPI recorded a negative annual percentage change of -1.279% in February 2023, plunging further to -26.925% in June 2023. Although it rebounded slightly by November 2024 to -8.458%, energy commodities remained negative throughout most of 2024, reflecting prolonged oversupply or weakened demand.
-        * **Headline CPI vs. Copper and Aluminum Prices** 
+        * **Headline CPI vs. Copper and Aluminum Prices (Past Decade)** 
             * The comparison with headline CPI is initiated for two primary reasons. First, headline CPI captures a broad spectrum of price changes across the economy. Second, despite the increased fluctuation that comes from its inclusion of energy and food prices, the strong correlation between energy prices and hard commodity prices makes headline CPI an appropriate starting point for analyzing the broader economic implications.     
             * When headline CPI is integrated with copper and aluminum prices, strong positive correlations emerge: 0.735 for copper and 0.830 for aluminum. These values suggest that as commodity prices increase, headline CPI tends to rise correspondingly. However, this relationship presents contradictions. While rising CPI typically reduces purchasing power and curtails demand, simultaneous increases in commodity prices often signal heightened demand—implying the influence of additional factors.These inconsistencies underline the complexity of CPI and commodity price dynamics in a climate-driven world. Variables such as stock market performance, influenced by advancements like AI, may also play a critical role in shaping these interconnections.
               
@@ -112,7 +116,7 @@
                * **Energy Commodities CPI**: Copper’s correlation surged by 46%, and aluminum’s by 15%.
                * **Energy Services CPI**: Correlations decreased slightly, with copper falling by 13% and aluminum by 6%.
            * Transitioning from the COVID-19 period to the post-COVID period, the dynamics shifted again:
-               * **Energy CPI and Energy**: Commodities CPI: Correlations declined sharply. Notably, Energy Commodities CPI correlations dropped significantly—by 78% for copper and 86% for aluminum.
+               * **Energy CPI and Energy Commodities CPI**: Correlations declined sharply. Notably, Energy Commodities CPI correlations dropped significantly—by 78% for copper and 86% for aluminum.
                * **Energy Services CPI**: Correlations showed marked increases with both metals.
                
           * **Digital Assets: Cryptocurrency**
