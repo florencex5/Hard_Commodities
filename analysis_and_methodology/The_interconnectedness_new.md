@@ -38,9 +38,10 @@
    * Correlation Analysis
     
 * **Limitation**
-    * A key limitation arises from aligning monthly macroeconomic indicators with daily commodity trading prices. To ensure consistency and comparability, global copper and aluminum prices are used in place of daily futures trading prices for certain segments of the analysis.
-    * The post-COVID period is limited to a smaller sample size (less than 30), which may affect the statistical significance of the findings.
-    * The differing operating hours between hard commodities and cryptocurrencies complicate data alignment, leading to exclusion of some cryptocurrency data. The merged data will primarily be aligned with the trading calendars of hard commodities.
+    * Monthly macroeconomic indicators were aligned with daily commodity prices using global copper and aluminum prices instead of daily futures trading data for consistency.
+    * The post-COVID analysis is based on a limited sample size (<30), potentially impacting statistical significance.
+    * Discrepancies in operating hours between cryptocurrency spot and futures markets led to the exclusion of some spot data.
+    * Merging hard commodity and cryptocurrency data required alignment with hard commodity trading calendars, resulting in partial cryptocurrency data exclusion.
 
 
 ## KEY FINDINGS
@@ -53,11 +54,8 @@
 
 
 ## ANALYSIS
-* **Part 1: Historical Correlation Trends of Hard Commodities**
-    1. *Copper & Aluminum*
-         * Over a 30-year period from January 1990 to November 2024, copper and aluminum prices demonstrated a robust positive correlation, with a coefficient of 0.846.This indicates a traditional “complementary” relationship, where an increase in the price of one commodity typically aligns with a rise in the other.
-    2. *...*
-        * ..
+* **Part 1: Historical Correlation Trends of Hard Commodities (Copper & Aluminum)**
+    * Over a 30-year period from January 1990 to November 2024, copper and aluminum prices demonstrated a robust positive correlation, with a coefficient of 0.846.This indicates a traditional “complementary” relationship, where an increase in the price of one commodity typically aligns with a rise in the other.
 
 * **Part 2:Market Relevant Indicators and Hard Commodity Interconnections**
     * **_Factor 1: Headline CPI_**
