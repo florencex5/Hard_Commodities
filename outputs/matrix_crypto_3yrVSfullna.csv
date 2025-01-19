@@ -1,0 +1,9 @@
+,close_b,close_b_f,close_eth,close_eth_f,volume_b,volume_b_f,volume_eth,volume_eth_f
+close_b,Same,High,High,High,High,High,High,High
+close_b_f,High,Same,High,High,High,High,High,High
+close_eth,High,High,Same,High,High,High,High,Low
+close_eth_f,High,High,High,Same,High,High,High,Low
+volume_b,High,High,High,High,Same,High,High,High
+volume_b_f,High,High,High,High,High,Same,High,High
+volume_eth,High,High,High,High,High,High,Same,High
+volume_eth_f,High,High,Low,Low,High,High,High,Same

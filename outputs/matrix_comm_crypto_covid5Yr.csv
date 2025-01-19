@@ -1,0 +1,11 @@
+,close_cop,volume_cop,close_alu,volume_alu,close_gold,volume_gold,close_b,volume_b,close_eth,volume_eth
+close_cop,Same,High,High,Low,Low,High,High,Low,Low,High
+volume_cop,High,Same,High,Low,High,Low,High,Low,Low,Low
+close_alu,High,High,Same,High,High,High,High,Low,High,Low
+volume_alu,Low,Low,High,Same,Low,High,Low,High,Low,High
+close_gold,Low,High,High,Low,Same,High,Low,Low,Low,Low
+volume_gold,High,Low,High,High,High,Same,Low,Low,Low,Low
+close_b,High,High,High,Low,Low,Low,Same,Low,High,High
+volume_b,Low,Low,Low,High,Low,Low,Low,Same,Low,Low
+close_eth,Low,Low,High,Low,Low,Low,High,Low,Same,High
+volume_eth,High,Low,Low,High,Low,Low,High,Low,High,Same
