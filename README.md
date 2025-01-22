@@ -17,7 +17,7 @@
 * **Pair 1: Copper v.s. Aluminum**
 * **Pair 2: Crude Oil v.s. Natural Gas**
   
-### Chapter Three: Adapting Equity Valuation to a Dynamic Climate"
+### Chapter Three: Valuing Hard Commodities in Dynamic Climate
 
 
 ### Epilogue
