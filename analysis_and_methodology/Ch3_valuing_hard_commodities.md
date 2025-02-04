@@ -1,7 +1,7 @@
 # Valuing Hard Commodities in Dynamic Climate -- Analysis Report & Methodology
 
 ## OBJECTIVE
-* Evaluate and compare the performance of multiple linear regression and advanced machine learning models (LSTM, XGBoost)
+* Evaluate and compare the performance of multiple linear regression and machine learning models
 * Forecast hard commodities, incorporating insights from previous chapters.
 
 
@@ -41,14 +41,14 @@
 1. ...
 
 
-## ANALYSIS
+## ANALYSIS    
 * **Introduction**
-    * ...
+    * The concept of equity takes on different meanings across disciplines—whether in law, finance, or climate change—yet it consistently emphasizes the importance of balance. In law, equity ensures fairness by providing flexibility when strict legal rules fall short. In finance, it represents ownership and value. In climate discussions, equity focuses on the fair distribution of resources and responsibilities. Similarly, this analysis seeks to balance key factors affecting commodity prices, aiming to enhance forecasting reliability in an increasingly uncertain environment.
     
 * **Part 1: Bridging Equity Valuation Components**
     * Equity valuation traditionally follows a structured approach, with the Free Cash Flow to Firm (FCFF) model serving as a fundamental example. This model consists of two key components: the denominator, which includes the Weighted Average Cost of Capital (WACC) and the sustainable growth rate, and the numerator, representing the firm’s free cash flow.
     * **Chapter 1** explored sustainable growth in the context of climate change, highlighting key valuation factors such as workforce distribution, geographic concentration, and demand patterns, all of which directly impact the denominator. Another critical element—**Total Factor Productivity (TFP)**—though not previously discussed, is essential for industries reliant on hard commodities. As renewable energy adoption grows, the efficiency and reliability of emerging technologies will increasingly shape mineral production and price fluctuations, influencing long-term growth projections.
-    * Since commodity prices are a primary driver of revenue for energy and mining companies, the analysis shifts from evaluating growth sustainability in the denominator to assessing revenue determinants in the numerator. **Chapter 2** examined the interconnectedness of hard commodity prices with market-relevant factors, such as the Consumer Price Index (CPI), to better understand their relationship with profitability. Building on this foundation, **Chapter 3** takes a more direct approach to revenue forecasting, employing multiple regression and machine learning models to refine commodity price predictions.
+    * Since hard commodity prices are a primary driver of revenue for energy and mining companies, the analysis shifts from evaluating growth sustainability in the denominator to assessing revenue determinants in the numerator. **Chapter 2** examined the interconnectedness of hard commodity prices with market-relevant factors, such as the Consumer Price Index (CPI), to better understand their relationship with profitability. Building on this foundation, **Chapter 3** takes a more direct approach to revenue forecasting, employing multiple regression and machine learning models to refine commodity price predictions.
 
 * **Part 2: Reviewing Forecasting Approaches**
     * In the [*previous analysis*](https://github.com/florencex5/Crude_Oil_Finance_Project), XGBoost was utilized for crude oil forecasting, but it lacked detailed statistical analysis. To address this, a multiple linear regression model will be applied to better understand the relationships between key factors and their coefficients. While crude oil prices may not exhibit a strictly linear relationship with these factors, this approach will provide a foundational understanding before advancing to more complex models like XGBoost.
@@ -65,16 +65,14 @@
 * **Part 3:Commodities Valuation Model**
     * **Findings**
         * **Overfitting and Volatility Sensitivity**: XGBoost exhibited poor performance across all three hard commodities. While the adjusted R-squared for the training data was within an acceptable range, a significant decline in the testing data suggested potential overfitting. Additionally, the model failed to capture extreme values, instead smoothing out trends, which does not accurately reflect the high volatility in hard commodities prices under dynamic climate conditions.
-            * **Data Imbalance Impact**: The model’s accuracy was likely affected by the imbalance between the dependent variable (e.g., unscaled hard commodities prices) and the independent variables (e.g., scaled trading volume). This disparity could contribute to predictive inaccuracies.
-        * **Multicollinearity in Forecasting**: Despite multicollinearity issues, some highly correlated features, such as USD/EUR and daily electricity generation by natural gas, remained influential in XGBoost models, indicating their importance in forecasting models.
+            * **Data Imbalance Impact**: Disparities in scale and unit size between the dependent and independent variables, such as futures contract prices versus trading volume, contributed to inconsistencies in the model’s predictions.
+        * **Multicollinearity in Forecasting**:Despite the high VIF values indicating multicollinearity (e.g., USD/EUR with a VIF of 1873), these variables remained influential in XGBoost models, highlighting their significance in forecasting.
         * **RMSE Comparison**: While lower RMSE generally indicates better model performance, the unit of measurement (USD per barrel vs. USD per metric ton) must be considered when comparing models. Crude oil and natural gas displayed lower RMSE values compared to copper in the valuation.
-        * **Assumption and Prediction Quality**: In a climate-driven market, violations of assumptions in multiple linear regression models are often unavoidable. However, despite these challenges, multiple linear regression remains a valuable tool for generating meaningful and reliable forecasts. Its strength lies in its ability to analyze the interconnections among independent variables, providing deeper insights into market dynamics.
+        * **Assumption and Prediction Quality**: In climate-driven markets, assumption violations in multiple linear regression models are common. While these violations may affect the model’s absolute validity, understanding them provides valuable insights into variable relationships. Statistically, they signal issues, but from a financial perspective, they offer a deeper understanding of market dynamics.
     * **Recommendation**
         * **"Shuffling" vs. Seasonal Data Incorporation**: When splitting data for training and testing, shuffling introduces volatility and complexity, which can enhance XGBoost’s performance. Alternatively, manually incorporating seasonal data can replicate this effect, restoring necessary fluctuations for better trend recognition. This approach not only improves prediction accuracy by creating meaningful “waves” in the data but also ensures a balanced expansion of the training and testing datasets.
+        * **Addressing Data Imbalance**: Rather than standard scaling, proportionally adjusting dependent variables (e.g., multiplying by 100) can better align their magnitude with independent variables, minimizing discrepancies in scale and unit size.
         * **Timesteps in Forecasting**: selecting the appropriate number of past data points—referred to as “timesteps”—is crucial for effective forecasting.This determines how much historical data the model considers when forecasting future values. For hard commodities with strong seasonal patterns—such as natural gas prices or gold trading volumes—adjusting timesteps helps capture these variations effectively, enhancing the model’s predictive accuracy.
-        * **...** 
-            * ...
-            * ...
     * **Note**
         * For more details on the analysis and model implementation, please refer to the corresponding Jupyter notebook.
             * [**WTI Crude Oil**](https://github.com/florencex5/Hard_Commodities/blob/main/valuation_model_wti.ipynb)
