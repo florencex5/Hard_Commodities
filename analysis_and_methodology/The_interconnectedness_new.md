@@ -1,4 +1,4 @@
-# The Interconnectedness -- Analysis Report & Methodology
+# Chapter Two: The Interconnectedness -- Analysis Report & Methodology
 
 ## THE PROBLEM
 * What role does climate change play in reshaping the relationship between major hard commodities?
