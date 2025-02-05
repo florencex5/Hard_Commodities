@@ -1,4 +1,4 @@
-# Valuing Hard Commodities in Dynamic Climate -- Analysis Report & Methodology
+# Chapter Three: Valuing Hard Commodities in Dynamic Climate -- Analysis Report & Methodology
 
 ## OBJECTIVE
 * Evaluate and compare the performance of multiple linear regression and machine learning models
