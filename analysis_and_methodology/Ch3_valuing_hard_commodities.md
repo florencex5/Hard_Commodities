@@ -38,7 +38,13 @@
 
 
 ## KEY FINDINGS
-1. ...
+1. Strong correlations among supply chain variables, such as weekly imports and refiner production, introduce **multicollinearity risks**. Diversifying feature selection enhances model robustness, but hidden multicollinearity — such as between supply and demand factors — must be carefully managed.
+2. Improper **scaling** can lead to data leakage, undermining predictive reliability. Maintaining proportionality between dependent and independent variables is crucial for preserving model performance
+3. Enabling **shuffling** during data splitting introduces volatility that benefits XGBoost. For short-term price forecasting, adjusting the sample size by incorporating seasonal patterns (e.g., based on the same quarter) can achieve comparable effect, improving trend recognition and ensuring balanced training and testing datasets.
+4. **Assumption violations** in multiple linear regression models affect absolute validity. However, analyzing these violations provides deeper insights into variable interactions, offering a more comprehensive financial perspective on market behavior.
+5. LSTM 
+    * While extensive **tuning** enhances statistical accuracy, it risks over-smoothing critical climate-related fluctuations. Increasing past data points to estimate current values makes LSTM less adaptive to short-term market shifts compared to multiple regression, but it remains valuable for capturing long-term trends.
+    * Determining an appropriate number of past data points (**timesteps**) is key to recognizing seasonal price patterns in hard commodities. Additionally, effective **outlier** handling is vital, as removing them can disrupt sequential dependencies and skew predictions
 
 
 ## ANALYSIS    
