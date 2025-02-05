@@ -1,4 +1,4 @@
-# The Sustainable Growth Rate -- Analysis Report & Methodology
+# Chapter One: The Sustainable Growth Rate -- Analysis Report & Methodology
 
 ## THE PROBLEM
 * When the traditional valuation of hard commodities collides with climate change, how could we realign with sustainable growth dynamics?
