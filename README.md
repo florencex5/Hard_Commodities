@@ -13,10 +13,13 @@
     <img width="1286" alt="concept_diagram" src="https://github.com/florencex5/Hard_Commodities/assets/129706051/af30f7e5-ed59-490e-a1f5-418cfd0dad4c">
 
     
-### Chapter Two: Climate-Driven Earnings Forecasts - Interconnectedness
+### Chapter Two: Climate-Driven Earnings Forecasts - The Interconnectedness
 * **Pair 1: Copper v.s. Aluminum**
+  * [Full Analysis Report & Methodology 🗒️](https://github.com/florencex5/Hard_Commodities/blob/main/analysis_and_methodology/The_interconnectedness_new.md)
+  * [Full Analysis Slides 🖥️](https://github.com/florencex5/Hard_Commodities/blob/main/analysis_slides/Interconnectedness_finalVersion2.pdf)
+  * [Quantitative Analysis – Jupyter Notebook 📊](https://github.com/florencex5/Hard_Commodities/blob/main/Copper_and_Aluminium_analysis.ipynb)
 * **Pair 2: Crude Oil v.s. Natural Gas**
-  
+  * [Quantitative Analysis – Jupyter Notebook 📊](https://github.com/florencex5/Hard_Commodities/blob/main/CrudeOil_and_NaturalGas_analysis.ipynb)  
 ### Chapter Three: Valuing Hard Commodities in Dynamic Climate
 
 
