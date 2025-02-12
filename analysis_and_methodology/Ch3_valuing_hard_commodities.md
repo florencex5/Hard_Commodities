@@ -1,8 +1,7 @@
-# Chapter Three: Valuing Hard Commodities in Dynamic Climate -- Analysis Report & Methodology
+# Valuing Hard Commodities in Dynamic Climate -- Analysis Report & Methodology
 
 ## OBJECTIVE
-* Evaluate and compare the performance of multiple linear regression and machine learning models
-* Forecast hard commodities, incorporating insights from previous chapters.
+* Compare and forecast hard commodities using multiple linear regression and machine learning models, incorporating insights from previous chapters.
 
 
 ## METHODOLOGY
@@ -66,7 +65,7 @@
             1. **Tuning vs. Practical Accuracy**: Despite its slightly higher RMSE, one of LSTM’s drawback lies in extensive tuning, which enhances statistical accuracy but weakens its ability to capture climate-related factors and real-world dynamics.
             2. **Over-Smoothing Risk**: Excessive tuning may smooth out critical market volatilities. While multiple regression, depending on feature selection and time horizon, may offer more responsive predictions, LSTM remains valuable for capturing long-term trends.
     * **Note**
-        * For more details on the analysis and model implementation, please refer to [**Jupyter notebook**](https://github.com/florencex5/Hard_Commodities/blob/main/crudeOil_project_review.ipynb)
+        * For more details on the analysis and model implementation, please refer to [**Quantitative Analysis – Jupyter notebook**](https://github.com/florencex5/Hard_Commodities/blob/main/crudeOil_project_review.ipynb)
         
 * **Part 3:Commodities Valuation Model**
     * **Findings**
