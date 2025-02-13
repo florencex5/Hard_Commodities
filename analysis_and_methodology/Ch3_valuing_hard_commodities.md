@@ -18,7 +18,7 @@
         * Electricity Power Operations - Total Interchange
     * *Timeframes*: May 2024 - November 2024
 * **Data Preprocessing**
-    * Data was split with 30% reserved for testing.
+    * Data was split with 30% reserved for testing,maintaining chronological order.
     * MinMax scaling was applied consistently across all models.
 * **Analysis Methods**
     * Multiple Linear Regression
@@ -71,10 +71,10 @@
     * **Findings**
         * **Overfitting and Volatility Sensitivity**: XGBoost exhibited poor performance across all three hard commodities. While the adjusted R-squared for the training data was within an acceptable range, a significant decline in the testing data suggested potential overfitting. Additionally, the model failed to capture extreme values, instead smoothing out trends, which does not accurately reflect the high volatility in hard commodities prices under dynamic climate conditions.
             * **Data Imbalance Impact**: Disparities in scale and unit size between the dependent and independent variables, such as futures contract prices versus trading volume, contributed to inconsistencies in the model’s predictions.
-        * **Multicollinearity in Forecasting**:Despite the high VIF values indicating multicollinearity (e.g., USD/EUR with a VIF of 1873), these variables remained influential in XGBoost models, highlighting their significance in forecasting.
+        * **Multicollinearity in Forecasting**:Despite high VIF values indicating multicollinearity (e.g., USD/EUR at 1873 for natural gas), these variables consistently ranked among the top five in XGBoost feature importance across all selected hard commodities, including WTI and copper, highlighting their significance in forecasting.(Note: The comparison, based on VIF metrics, is limited by differing feature selections for each commodity, as their unique correlation patterns may affect the generalizability of the results.)
         * **RMSE Comparison**: While lower RMSE generally indicates better model performance, the unit of measurement (USD per barrel vs. USD per metric ton) must be considered when comparing models. Crude oil and natural gas displayed lower RMSE values compared to copper in the valuation.
         * **Assumption and Prediction Quality**: In climate-driven markets, assumption violations in multiple linear regression models are common. While these violations may affect the model’s absolute validity, understanding them provides valuable insights into variable relationships. Statistically, they signal issues, but from a financial perspective, they offer a deeper understanding of market dynamics.
-    * **Recommendation**
+    * **Recommendations**
         * **"Shuffling" vs. Seasonal Data Incorporation**: When splitting data for training and testing, shuffling introduces volatility and complexity, which can enhance XGBoost’s performance. Alternatively, manually incorporating seasonal data can replicate this effect, restoring necessary fluctuations for better trend recognition. This approach not only improves prediction accuracy by creating meaningful “waves” in the data but also ensures a balanced expansion of the training and testing datasets.
         * **Addressing Data Imbalance**: Rather than standard scaling, proportionally adjusting dependent variables (e.g., multiplying by 100) can better align their magnitude with independent variables, minimizing discrepancies in scale and unit size.
         * **Timesteps in Forecasting**: selecting the appropriate number of past data points—referred to as “timesteps”—is crucial for effective forecasting.This determines how much historical data the model considers when forecasting future values. For hard commodities with strong seasonal patterns—such as natural gas prices or gold trading volumes—adjusting timesteps helps capture these variations effectively, enhancing the model’s predictive accuracy.
