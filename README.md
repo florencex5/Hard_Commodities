@@ -21,6 +21,10 @@
 * **Pair 2: Crude Oil v.s. Natural Gas**
   * [Quantitative Analysis – Jupyter Notebook 📊](https://github.com/florencex5/Hard_Commodities/blob/main/CrudeOil_and_NaturalGas_analysis.ipynb)  
 ### Chapter Three: Valuing Hard Commodities in Dynamic Climate
-
-
+  * [Full Analysis Report & Methodology 🗒️](https://github.com/florencex5/Hard_Commodities/blob/main/analysis_and_methodology/Ch3_valuing_hard_commodities.md)
+  * [Full Analysis Slides 🖥️]
+  * **Quantitative Analysis - Jupyter Notebook📊**
+    *  [Copper](https://github.com/florencex5/Hard_Commodities/blob/main/valuation_model_cop.ipynb)
+    *  [WTI Crude Oil](https://github.com/florencex5/Hard_Commodities/blob/main/valuation_model_wti.ipynb)
+    *  [Henry Hub Natural Gas](https://github.com/florencex5/Hard_Commodities/blob/main/valuation_model_ng.ipynb)
 ### Epilogue
