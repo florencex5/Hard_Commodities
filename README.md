@@ -1,6 +1,6 @@
 # Cracking the Climate-Conscious Hard Commodities Code: Discovering Their True Value
 
-## "Preface"📖
+## Preface📖
 * Time continues to pass, temperatures keep climbing, and more energy companies are embracing clean technology. At the same time, the automotive industry is introducing new renewable energy vehicles. Each day brings new changes and challenges. In this fast-paced climate transition, how long can our traditional equity valuation methods keep up? Especially for hard commodities, which are at the forefront of climate-related risks, could we find a way to help them adapt to these changes?
 * In this AI-driven world,  it’s tempting to toss everything into a machine learning black box.  However, that approach seems too "simplistic" for the complexities of hard commodities. We still need traditional statistics and numbers to understand the fundamentals. That’s why I’ve divided this project into three sections (more details below👇) 
 
