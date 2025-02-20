@@ -17,7 +17,7 @@
 ## About President Trump
 * A four-year term may bring a so-called “golden age” starting January 20, 2025, but without a commitment to the Paris Agreement, the estimated $1 trillion saved won’t stop rising temperatures, heat stress, or droughts. And when food supplies like rice suffer, billionaires won’t be the first to feel it—it’ll be the very voters who backed the 47th president of the U.S. They won’t feel it now,but their children will.
 * “$1 trillion” sounds impressive today, but can it buy another Earth?
-* What kind of future does the president want to leave for your grandchildren?
+* What kind of temperature is the president setting up for your grandkids’ future?
 * The orange skies over New York in 2023 and California’s relentless wildfires weren’t anomalies—they were warnings. Climate change doesn’t follow political cycles, and ignoring it now only makes tomorrow’s problems worse.
 
 
