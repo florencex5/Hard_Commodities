@@ -28,6 +28,6 @@
     *  [Henry Hub Natural Gas](https://github.com/florencex5/Hard_Commodities/blob/main/valuation_model_ng.ipynb)
 ## Epilogue🙃
 
-  * [Full Slides 🖥️](https://github.com/florencex5/Hard_Commodities/blob/main/analysis_slides/Epilogue.pdf)
+  * [Full Slides 🖥️](https://github.com/florencex5/Hard_Commodities/blob/main/analysis_slides/Epilogue_version2.pdf)
 ![Untitled_Artwork](https://github.com/user-attachments/assets/9f2d2aec-baaf-4f3a-b3ab-10c42616fd1c)
 
